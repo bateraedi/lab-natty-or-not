@@ -20,7 +20,9 @@ O material criado foi um guia prático para tentar se manter atualizado com a In
 
 ## 🚀 Resultados
 
-[E-BOOK](/Navegando_no_Caos_da_IA_Guia_Pratico.pdf)
+- [E-BOOK](/Navegando_no_Caos_da_IA_Guia_Pratico.pdf)
+- [Vídeo (Avatar Virtual)](/2026-09-10 17-09-34.mp4)
+
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
