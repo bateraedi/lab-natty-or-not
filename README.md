@@ -19,7 +19,8 @@ Formatação do audio e melhora da qualidade através do eleven labs
 Criação do video pela Hey Gen utilizando o audio criado pela eleven labs 
 
 ## 🚀 Resultados
-- [E-BOOK] Navegando_no_Caos_da_IA_Guia_Pratico.pdf
+
+[E-BOOK](/Navegando_no_Caos_da_IA_Guia_Pratico.pdf)
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
