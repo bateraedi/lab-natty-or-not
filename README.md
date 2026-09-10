@@ -9,14 +9,12 @@ O material criado foi um guia prático para tentar se manter atualizado com a In
 ## 🤖 Tecnologias Utilizadas
 - Gemini Chat
 - Gemini Notebook
-- Eleven Labs
 - Hey Gen
 
 ## 🧐 Processo de Criação
 - Criação do conteúdo e estruturação do ebook através do chat do Gemini
 - Criação do conteúdo do áudio pelo Gemini Notebook
-- Formatação do audio e melhora da qualidade através do eleven labs
-- Criação do video pela Hey Gen utilizando o audio criado pela eleven labs 
+- Criação do video pela Hey Gen utilizando o audio criado pelo Gemini Notebook, não foi necessário transcrição o Hey Gen fez tudo sozinho à partir do áudio 
 
 ## 🚀 Resultados
 
@@ -24,18 +22,7 @@ O material criado foi um guia prático para tentar se manter atualizado com a In
 - [Vídeo Avatar Virtual](/Eddie_AI.mp4)
 
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+## 💭 Reflexão
+Por mais que pareça fácil somente pedir prompts, na maioria das vezes o material não vem da maneira que queremos ou imaginamos, imagens, áudios e vídeos precisam ajuste fino e/ou edição e na maioria das vezes falta uma ferramenta que faça o que você precisa, hoje em dia qualquer ferramenta é paga e nada mais é feito com o paint do windows. E o grande desafio é achar um ferramenta que te atenda sem te gerar um custo. Por que aqui o objetivo é aprendizado e não monetização.
 
-### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
