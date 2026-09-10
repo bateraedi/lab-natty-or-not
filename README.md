@@ -7,16 +7,16 @@ O material criado foi um guia prático para tentar se manter atualizado com a In
 
 
 ## 🤖 Tecnologias Utilizadas
-Gemini Chat
-Gemini Notebook
-Eleven Labs
-Hey Gen
+- Gemini Chat
+- Gemini Notebook
+- Eleven Labs
+- Hey Gen
 
 ## 🧐 Processo de Criação
-Criação do conteúdo e estruturação do ebook através do chat do Gemini
-Criação do conteúdo do áudio pelo Gemini Notebook
-Formatação do audio e melhora da qualidade através do eleven labs
-Criação do video pela Hey Gen utilizando o audio criado pela eleven labs 
+- Criação do conteúdo e estruturação do ebook através do chat do Gemini
+- Criação do conteúdo do áudio pelo Gemini Notebook
+- Formatação do audio e melhora da qualidade através do eleven labs
+- Criação do video pela Hey Gen utilizando o audio criado pela eleven labs 
 
 ## 🚀 Resultados
 
